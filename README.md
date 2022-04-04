@@ -7,7 +7,7 @@
 
 
 #### Analyze
-The SQL queries I used can be found [here]().
+The SQL queries I used can be found [here](https://github.com/khaitmb/Global-Covid-Data/blob/main/SQL%20Queries).
 
 #### Share
 For my data visualization, I chose to focus specifically on infection rates by time and location. I summarized these trends in a dashboard on Tableau.
