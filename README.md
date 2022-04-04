@@ -1,16 +1,18 @@
 ### COVID-19 Global Data Trends From 2021 to Early 2022
 
 #### About
+As we begin to enter the early months of 2022 and finally see some alleviation from the COVID-19 pandemic, I thought that it might be informative to reflect on how the pandemic has impacted the world over the past year. In this analysis specifically, I chose to further investigate the cases and deaths relative to a country's population.
 
+The dataset I will be using for my analysis is available on [ourwolrdindata.org/covid-deaths](ourwolrdindata.org/covid-deaths).
 
-#### Prepare
+#### Preparation
+The dataset was first cleaned and filtered on Microsoft Excel.
 
-
-#### Analyze
+#### Analysis
 The SQL queries I used can be found [here](https://github.com/khaitmb/Global-Covid-Data/blob/main/SQL%20Queries).
 
 #### Share
-For my data visualization, I chose to focus specifically on infection rates by time and location. I summarized these trends in a dashboard on Tableau.
+For my data visualization, I chose to focus on infection rates by time and location. I summarized these trends in a dashboard on Tableau.
 
 [Tableau Dashboard](https://public.tableau.com/app/profile/khaitlin.bernaldez/viz/COVID-19GlobalData_16478340396370/Dashboard2)
 
