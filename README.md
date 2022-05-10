@@ -3,7 +3,7 @@
 #### About
 As we begin to enter the early months of 2022 and finally see some alleviation from the COVID-19 pandemic, I thought that it might be informative to reflect on how the pandemic has impacted the world over the past year. In this analysis specifically, I chose to further investigate the cases and deaths relative to a country's population.
 
-The dataset I will be using for my analysis is available on [ourwolrdindata.org/covid-deaths](ourwolrdindata.org/covid-deaths).
+The dataset I will be using for my analysis is available on [ourwolrdindata.org/covid-deaths](ourwolrdindata.org/coronavirus).
 
 #### Preparation
 The dataset was first cleaned and filtered on Microsoft Excel.
