@@ -9,7 +9,7 @@ The dataset I will be using for my analysis is available on [https://ourworldind
 The dataset was first cleaned and filtered on Microsoft Excel.
 
 #### Analysis
-The SQL queries I used can be found [here](https://github.com/khaitmb/Global-Covid-Data/blob/main/SQL%20Queries).
+The SQL queries I used can be found [here](https://github.com/khaitmb/Global-Covid-Data/blob/main/SQL_Queries.sql).
 
 #### Share
 For my data visualization, I chose to focus on infection rates by time and location. I summarized these trends in a dashboard on Tableau.
